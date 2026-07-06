@@ -1,0 +1,8 @@
+# IntelliJ fajlov
+.idea/
+*.iml
+*out/
+
+
+# Kompajlirani Java fajlovi
+*.class
