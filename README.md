@@ -13,7 +13,8 @@ At its core, this project demonstrates the implementation of a custom **Generic 
 
 > **Note:** Here is how the dispatcher looks while actively resolving missions in the terminal.
 
-*[UBACI_SLIKU_OVDJE]* *(Izbriši ovaj tekst i samo drag&drop screenshot tvog terminala dok program radi)*
+<img width="581" height="815" alt="image" src="https://github.com/user-attachments/assets/57f8c9c3-0aec-4dea-98e6-9f202ed5c238" />
+
 
 ---
 
